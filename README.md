@@ -4,14 +4,12 @@ Deforestation 3D Game es un videojuego de exploración y supervivencia en 3D des
 Durante la partida controlo a un científico que ha viajado al pasado para conseguir los materiales que necesita la humanidad. Para completar la misión hay que explorar el terreno, recoger cristales, utilizar una máquina y sobrevivir a los peligros del entorno hasta alcanzar el Centro Tecnológico.
 
 Historia
-1. La Tierra en el año 3024
-
 La historia comienza en el año 3024. Después de siglos de explotación de la naturaleza, la Tierra se encuentra en una situación crítica. La población ha seguido creciendo, pero los recursos que antes parecían inagotables se han reducido hasta niveles alarmantes.
 
 Conseguir agua potable, alimentos, minerales y energía se ha convertido en un problema diario. Las ciudades están superpobladas y gran parte de sus habitantes depende de sistemas de racionamiento para sobrevivir. La tecnología ha avanzado muchísimo, pero no ha conseguido solucionar la falta de materias primas.
 
 Cada vez queda menos tiempo para encontrar una solución. Si no se consigue una nueva fuente de recursos, millones de personas podrían quedarse sin lo necesario para vivir.
-2. Una decisión que podría cambiarlo todo
+![La Tierra en el año 3024](images/1.png)
 
 Ante esta situación, un grupo de científicos reúne a especialistas de distintas áreas para intentar encontrar una salida. Estudian cómo aprovechar mejor los recursos que quedan, cómo recuperar zonas del planeta y cómo obtener materiales de otros lugares, pero ninguna de esas alternativas parece suficiente para resolver la crisis a tiempo.
 
@@ -20,35 +18,40 @@ Durante una de las reuniones, un geólogo plantea una idea que parecía imposibl
 Elige la época de los dinosaurios porque, dentro de la historia, representa un planeta lleno de vegetación, agua y recursos naturales. La propuesta consiste en enviar una expedición equipada con tecnología avanzada, obtener materiales y encontrar una forma de transportarlos al año 3024.
 
 Es una misión muy peligrosa. La tecnología de viaje temporal todavía tiene riesgos y no existe ninguna garantía de que una persona consiga llegar al pasado y regresar. Aun así, ante la falta de alternativas, el equipo decide poner en marcha el proyecto.
-3. El voluntario
+![Una decisión que podría cambiarlo todo](images/3.png)
 
 Un joven científico se ofrece voluntario para realizar el viaje. Sabe que se enfrentará a un mundo desconocido y que cualquier fallo podría dejarlo atrapado muy lejos de su época, pero también sabe que la expedición podría ser la última oportunidad de ayudar a la población.
 
 Antes de partir, una multitud se reúne para despedirlo. Para muchas personas, su viaje representa la esperanza de volver a tener una vida normal. El científico sube a bordo de la nave con la responsabilidad de una misión que ya no consiste únicamente en investigar: de su éxito puede depender el futuro de la humanidad.
-4. El viaje cuántico
+![El voluntario](images/4.png)
+
 
 Ya en los mandos de la nave, el científico comprueba los sistemas y selecciona el destino: la Tierra de la época de los dinosaurios. En el panel de control aparece la opción «Viaje cuántico», que activa una tecnología capaz de atravesar el tiempo y el multiverso.
 
 Todo parece funcionar según lo previsto durante los primeros instantes. Sin embargo, al atravesar el espacio entre realidades se produce un fallo inesperado. Los sistemas empiezan a responder de forma incorrecta y el científico pierde el control del viaje.
-5. Un aterrizaje que no estaba previsto
+![El viaje cuántico](images/5.png)
+
 
 La nave consigue llegar al pasado, pero lo hace en muy mal estado. Parte de los sistemas de navegación y energía han resultado dañados, y el científico queda atrapado en un territorio del que apenas conoce nada.
 
 Al observar el exterior descubre una Tierra completamente diferente a la del año 3024: enormes bosques, una naturaleza prácticamente intacta y dinosaurios que recorren el paisaje. Los recursos que buscaba están allí, pero conseguirlos será mucho más complicado de lo que imaginaba.
 
 Lo peor es que la avería impide iniciar otro viaje cuántico. No puede regresar a su época con la nave en ese estado.
-6. El contacto con el futuro
+![Un aterrizaje que no estaba previsto](images/6.png)
 
 Después de varios intentos, el equipo de científicos del año 3024 consigue establecer comunicación con el viajero. Al comprobar que ha sobrevivido, sienten alivio, pero enseguida descubren que la situación es mucho más grave de lo previsto.
 
 Los especialistas le explican que la nave es lo único que puede mantener su integridad física durante un viaje cuántico. No basta con volver a activar el sistema: necesita recuperar sus funciones esenciales antes de intentar regresar. Un segundo viaje con la nave dañada pondría en peligro su vida.
 
 A partir de ese momento, la misión tiene dos objetivos relacionados entre sí: reunir los recursos que necesita la Tierra del futuro y conseguir los medios necesarios para que el científico pueda volver a casa.
+![El contacto con el futuro](images/7.png)
+
 7. Sobrevivir, conseguir recursos y completar la misión
 
 Con la ayuda de la tecnología que ha llevado consigo, el científico comienza a explorar el territorio. Debe encontrar recursos, recoger distintos cristales que permiten utilizar las funciones de su máquina y enfrentarse a los obstáculos del escenario.
 
 No todos los dinosaurios se comportan igual. Algunos intentarán escapar, mientras que otros atacarán al jugador o a la máquina. También existen zonas peligrosas que pueden provocar daños si se atraviesan sin cuidado.
+![Sobrevivir, conseguir recursos y completar la misión](images/9.png)
 
 Dentro del videojuego, el objetivo final es llegar con la máquina al Centro Tecnológico. Ese lugar representa la posibilidad de continuar la misión y recuperar la tecnología necesaria para intentar el regreso. Conseguir alcanzarlo, después de reunir recursos y sobrevivir a los peligros del pasado, es la condición para completar la partida.
 Características del juego
